@@ -10,7 +10,6 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "FileReader": "^0.10.2",
     "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
     "bufferjs": "^3.0.1",
@@ -28,6 +27,7 @@
     "lz-string": "^1.4.4",
     "mockjs": "^1.0.1-beta3",
     "node-sass": "^4.9.0",
+    "prettier": "^1.12.1",
     "sass-loader": "^7.0.1",
     "script-loader": "^0.7.2",
     "sortablejs": "^1.7.0",
